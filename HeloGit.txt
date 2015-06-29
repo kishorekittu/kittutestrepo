@@ -1,0 +1,3 @@
+Hi Git. Welcome!
+
+As am new to git. Please welcome me.
