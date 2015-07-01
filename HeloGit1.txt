@@ -1,0 +1,5 @@
+Hi
+
+This is to verify the newly added file from the command line.
+
+Thank You.
