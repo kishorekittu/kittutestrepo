@@ -3,3 +3,5 @@ Hi Git. Welcome!
 As am new to git. Please welcome me.
 
 Am done to finish my Changes. Thank you.
+
+Am newly adding some content. New to your repository. 
